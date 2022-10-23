@@ -1,0 +1,4 @@
+<resources>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCgCORpDK0B5Hd2mjUEbsz1wZ-A7OO3-k8</string>
+    <string name="app_name">AdminMedrepTracker</string>
+</resources>

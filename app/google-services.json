@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "16754906967",
+    "firebase_url": "https://medical-rep-tracking.firebaseio.com",
+    "project_id": "medical-rep-tracking",
+    "storage_bucket": "medical-rep-tracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16754906967:android:5205158fe970d0fb3a1012",
+        "android_client_info": {
+          "package_name": "com.godseye.admintransporttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16754906967-m6dtk8tqva5ub7nn7mlji4sp9nqbhp4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAavx-pkbrSiRX5T8U-AepZhz3ntBwkJQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16754906967-m6dtk8tqva5ub7nn7mlji4sp9nqbhp4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16754906967:android:8a58e4248f9e61933a1012",
+        "android_client_info": {
+          "package_name": "com.google.transporttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16754906967-m6dtk8tqva5ub7nn7mlji4sp9nqbhp4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAavx-pkbrSiRX5T8U-AepZhz3ntBwkJQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16754906967-m6dtk8tqva5ub7nn7mlji4sp9nqbhp4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
